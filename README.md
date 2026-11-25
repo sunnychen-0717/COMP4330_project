@@ -53,7 +53,7 @@ hf auth login
 
 Preparing the Blockchain Node (Anvil):  
 Please follow the link:https://github.com/foundry-rs/foundry/releases to download the Windows version of Foundry and extract it to obtain "anvil.exe".  
-
+*Click v1.10.0*  
 *Choose: foundry_v1.10.0_win32_amd64.zip to download*  
 
 Please ensure that your project folder contains the following 5 core files:    
